@@ -1,0 +1,13 @@
+{
+"companyName": "Will Faust Builds",
+"productName": "Book of The Dead",
+"dataUrl": "BOTD WebGL build.data.unityweb",
+"asmCodeUrl": "BOTD WebGL build.asm.code.unityweb",
+"asmMemoryUrl": "BOTD WebGL build.asm.memory.unityweb",
+"asmFrameworkUrl": "BOTD WebGL build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
